@@ -10,7 +10,10 @@
 ## 1. **acethefurry16** *(Ace_16)*
 *(Primero y mejor)*  
 ace es mi mejor amigo que he tenido. Me ha ayudado en situaciones difíciles y también es una persona muy amable. Aunque es lindo, su mayor fortaleza es su capacidad para apoyarme en temas sensibles y estar siempre presente cuando lo necesito. ¡Gracias por ser el mejor!
-(foto no disponible)
+(estoy empezando a dudar de esta decision...)
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/31219838-dd6a-4a06-9184-b2c23ac2393e">
+</p>
 
 ---
 
