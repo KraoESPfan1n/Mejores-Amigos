@@ -10,7 +10,6 @@
 ## 1. **acethefurry16** *(Ace_16)*
 *(Primero y mejor)*  
 ace es mi mejor amigo que he tenido. Me ha ayudado en situaciones difíciles y también es una persona muy amable. Aunque es lindo, su mayor fortaleza es su capacidad para apoyarme en temas sensibles y estar siempre presente cuando lo necesito. ¡Gracias por ser el mejor!
-(estoy empezando a dudar de esta decision...)
 <p align="left">
     <img src="https://github.com/user-attachments/assets/31219838-dd6a-4a06-9184-b2c23ac2393e">
 </p>
@@ -39,19 +38,18 @@ Muichiro Tokito es similar a seba en muchos aspectos, pero destaca por no ser mu
 </p>
 
 ---
-
-## 4. **seba**  
-seba es un amigo tranquilo(bueno aunque aveces no) que a veces me ayuda con temas de juegos o simplemente juega conmigo. Aunque no destaca mucho, siempre me sorprende con muchos regalos que demuestran su generosidad(para nada le tengo que dar algo acambio).
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/20c3ae46-6cfc-4d2d-bc9d-7e8200a380f9">
-</p>
-
----
-
-## 6. **elyonnymasna** *(ElYonnyMasNa)*  
+## 5. **elyonnymasna** *(ElYonnyMasNa)*  
 Fue gracias a él que puedo explotar mi imaginación y conseguir ingresos. Además, a veces me ayuda con temas difíciles. Si no fuera por él, probablemente estaría peor de lo que ya estoy. Su apoyo ha sido crucial en mi vida.
 <p align="left">
     <img src="https://github.com/user-attachments/assets/1cbc1af9-dfb1-4459-a50a-108b2b0feb53">
+</p>
+
+
+---
+## 6. **seba**  
+seba es un amigo tranquilo(bueno aunque aveces no) que a veces me ayuda con temas de juegos o simplemente juega conmigo. Aunque no destaca mucho, siempre me sorprende con muchos regalos que demuestran su generosidad(para nada le tengo que dar algo acambio).
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/20c3ae46-6cfc-4d2d-bc9d-7e8200a380f9">
 </p>
 
 ---
