@@ -10,7 +10,6 @@ Welcome to my repository dedicated to **my best friends**! Here you will find a 
 ## 1. **acethefurry16** *(Ace_16)*
 *(First and foremost)*  
 Ace is the best friend I have ever had. He has helped me in difficult situations and is also a very kind person. Although he is nice, his greatest strength is his ability to support me in sensitive matters and always be present when I need him. Thank you for being the best!
-(I am starting to doubt this decision...)
 <p align="left">
     <img src="https://github.com/user-attachments/assets/31219838-dd6a-4a06-9184-b2c23ac2393e">
 </p>
@@ -40,20 +39,20 @@ Muichiro Tokito is similar to Seba in many ways, but he stands out for not being
 </p>
 
 ---
+## 5. **elyonnymasna** *(ElYonnyMasNa)*  
+It was thanks to him that I can unleash my imagination and earn income. Additionally, he sometimes helps me with difficult matters. If it weren't for him, I would probably be worse off than I already am. His support has been crucial in my life.
+<p align="left">
+    <img src="https://github.com/user-attachments/assets/1cbc1af9-dfb1-4459-a50a-108b2b0feb53">
+</p>
 
-## 4. **seba**  
+
+---
+## 6. **seba**  
 Seba is a calm friend (good, although sometimes not) who sometimes helps me with gaming issues or simply plays with me. Although he doesn't stand out much, he always surprises me with many gifts that demonstrate his generosity (I don't have to give him anything in return).
 <p align="left">
     <img src="https://github.com/user-attachments/assets/20c3ae46-6cfc-4d2d-bc9d-7e8200a380f9">
 </p>
 
----
-
-## 6. **elyonnymasna** *(ElYonnyMasNa)*  
-It was thanks to him that I can unleash my imagination and earn income. Additionally, he sometimes helps me with difficult matters. If it weren't for him, I would probably be worse off than I already am. His support has been crucial in my life.
-<p align="left">
-    <img src="https://github.com/user-attachments/assets/1cbc1af9-dfb1-4459-a50a-108b2b0feb53">
-</p>
 
 ---
 
